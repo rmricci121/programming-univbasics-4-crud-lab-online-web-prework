@@ -6,9 +6,9 @@ def create_an_array
   our_family = ["Rob", "Monica","Alice", "Margo"]
 end
 
-def add_element_to_end_of_array(array, element)
-  our_pets=["walnt", "sela", "goldie", "Anna"]
-  our_pets << ("Goldie")
+def add_element_to_end_of_array(our_family << ("Goldie")
+  
+  
 end
 
 def add_element_to_start_of_array(array, element)
