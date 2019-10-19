@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   our_family = ["Rob", "Monica","Alice", "Margo"]
   
-  our_family << "GG"
+  our_family << "arrays!"
   
 end
 
