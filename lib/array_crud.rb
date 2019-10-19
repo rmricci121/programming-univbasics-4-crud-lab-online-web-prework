@@ -3,11 +3,10 @@ def create_an_empty_array
 end
 
 def create_an_array
-     our_family = ["Rob", "Monica","Alice", "Margo"]
+  our_family = ["Rob", "Monica","Alice", "Margo"]
 end
 
 def add_element_to_end_of_array(array, element)
-  our_family = ["Rob", "Monica","Alice", "Margo"]
   our_famly << "GG"
 end
 
