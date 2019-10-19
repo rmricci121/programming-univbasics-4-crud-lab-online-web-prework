@@ -50,5 +50,7 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+our_family = ["wow", "Monica","Alice", "Margo"]
+  
+  our_family[4]= "totally"
 end
