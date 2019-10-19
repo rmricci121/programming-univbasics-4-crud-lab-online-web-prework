@@ -32,7 +32,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  our_family = ["Rob", "Monica","Am", "Margo"]
+  our_family = ["Rob", "Monica","am", "Margo"]
   
   our_family[2]
 end
